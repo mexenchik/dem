@@ -1,0 +1,15 @@
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\bin\Debug\net9.0-windows\Assets\logo.png
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\bin\Debug\net9.0-windows\LightStepWinForms.exe
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\bin\Debug\net9.0-windows\LightStepWinForms.deps.json
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\bin\Debug\net9.0-windows\LightStepWinForms.runtimeconfig.json
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\bin\Debug\net9.0-windows\LightStepWinForms.dll
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\bin\Debug\net9.0-windows\LightStepWinForms.pdb
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\LightStepWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\LightStepWinForms.AssemblyInfoInputs.cache
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\LightStepWinForms.AssemblyInfo.cs
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\LightStepWinForms.csproj.CoreCompileInputs.cache
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\LightStepWinForms.dll
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\refint\LightStepWinForms.dll
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\LightStepWinForms.pdb
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\LightStepWinForms.genruntimeconfig.cache
+C:\Users\MeXen\Desktop\Демоэкз\ExamPrepKit\LightStepWinForms\obj\Debug\net9.0-windows\ref\LightStepWinForms.dll
